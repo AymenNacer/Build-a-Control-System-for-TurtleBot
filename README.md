@@ -12,6 +12,6 @@ There are four directions, the user can't press two buttons at the same time, so
 
 Sample run:
 
-![ezgif-6-94635b7de5a6](https://user-images.githubusercontent.com/67188835/89171935-89a95300-d58a-11ea-8161-8cfbad7ca9e8.gif)
+![ezgif-6-b3cabaa681d2new](https://user-images.githubusercontent.com/67188835/89172175-df7dfb00-d58a-11ea-8f16-1e6f84079b2d.gif)
 
 
