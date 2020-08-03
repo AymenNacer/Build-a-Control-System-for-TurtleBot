@@ -1,5 +1,5 @@
 # Build-a-Control-System-for-TurtleBot
-Control system for TurtleBot using Arduino, i used motor encoder to determine how many turns the motor(wheel) had, by counting and dividing by 47 (it should be 32)
+Control system for TurtleBot using Proteus, i used motor encoder to determine how many turns the motor(wheel) had, by counting and dividing by 47 (it should be 32)
 
 ![41rHsHX8SgL _SX342_](https://user-images.githubusercontent.com/67188835/89170916-09362280-d589-11ea-813a-9a8d88cc6b72.jpg)
 
