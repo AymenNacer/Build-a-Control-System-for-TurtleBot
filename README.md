@@ -8,7 +8,7 @@ I used ultrasonic distance sensor to make sure the robot does not collide with a
 
 ![Capture](https://user-images.githubusercontent.com/67188835/89171526-fe2fc200-d589-11ea-92df-a7d26c1d8ae7.PNG)
 
-There are four directions, the user can't press two buttons at the same time, so turns are counted in case of forward and backward direction
+There are four directions, the user can't press two buttons at the same time, so turns are counted only in case of forward and backward direction
 
 Sample run:
 
